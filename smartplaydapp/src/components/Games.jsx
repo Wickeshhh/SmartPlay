@@ -7,9 +7,9 @@ import img4 from "../assets/img4.png";
 
 const gameImages = [
   { id: 1, src: img4, linkTo: 'valorant' },
-  { id: 2, src: img3, linkTo: 'valorant' },
-  { id: 3, src: img2, linkTo: 'valorant' },
-  { id: 4, src: img1, linkTo: 'valorant' },
+  { id: 2, src: img3, linkTo: 'fortnite' },
+  { id: 3, src: img2, linkTo: 'rocket' },
+  { id: 4, src: img1, linkTo: 'genshin' },
 ];
 
 export default function Games() {
